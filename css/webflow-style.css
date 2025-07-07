@@ -9936,3 +9936,9 @@ figcaption {
   font-style: normal;
   font-display: swap;
 }
+
+/* Hide the Webflow template badge */
+.more-templates-p {
+  display: none !important;
+  visibility: hidden !important;
+}
